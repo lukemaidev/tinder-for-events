@@ -7,7 +7,7 @@
   - Create root README.md with project overview
   - _Requirements: All_
 
-- [ ] 1.2 Initialize Node.js/Express backend with TypeScript configuration
+- [x] 1.2 Initialize Node.js/Express backend with TypeScript configuration
   - Navigate to /backend folder
   - Create package.json with dependencies (express, mongodb, typescript, bcrypt, jsonwebtoken, stripe)
   - Configure TypeScript with tsconfig.json
